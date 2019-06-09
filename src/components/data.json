@@ -1,0 +1,2848 @@
+{
+  "Title": "Ultimate Mortal Kombat 3 - Moves List",
+  "Description": "*** UMK3 Special Edition(SNES) FAQ 2.06 (c)1996-2004 By Charles Grey (iceout0002@aol.com) Last Update 09/08/2004",
+
+  "Verions": {
+    "9/8/04": "Various move corrections, easier LKang friendship.",
+    "1/1/04": "Reformatted the FAQ, a few move fixes."
+  },
+
+  "Index": [
+    "Info",
+    "Controls",
+    "Playing Options",
+    "Finishers",
+    "Moves and Combos",
+    "Kombat Kodes",
+    "Special Kodes",
+    "Glitches",
+    "Credits"
+  ],
+
+  "Info": {
+    "Characters": "*24 known playable characters(at least 1 hidden).",
+    "Stages": [
+      "Blue Portal",
+      "Jade's Desert",
+      "Scorpion's Lair(can uppercut to Kahn's Kave)",
+      "Kahn's Kave",
+      "Waterfront(then goes back to Portal)",
+      "PIT III(still fight Kahn here)",
+      "The Roof(now fight Motaro here)"
+    ],
+    "Notes": [
+      "*Some audio/graphic data removed to save memory.",
+      "*Incomplete finishers for certain characters.",
+      "*Rain has no ending.",
+      "*Shang cannot morph into Rain or Noob."
+    ],
+    "Changes": [
+      "*Sheeva removed.",
+      "*No character name voices.",
+      "*Animalities have been removed.",
+      "*Scorpion and Kitana fatality altered.",
+      "*Ermac, Mileena, and Classic Sub-Zero no longer need \"Ultimate Kombat Kodes\".",
+      "*Older stages except PIT III and Roof removed.",
+      "*Several Kombat Kodes removed.",
+      "*New type of finisher-the brutality- added.",
+      "*\"Toasty\" trick on Scorpion's Lair removed.",
+      "*\"Winner Fight Smoke\" code you still fight robot Smoke.",
+      "*Sonya still has old friendship.",
+      "*Shao Kahn's Treasures only in 8-man tournament and reduced from 12 to 10",
+      "squares and many of those are duplicates.",
+      "*Ermac's head punch fatality has been changed.",
+      "*Human Smoke and Classic Sub appear in Randper mode.",
+      "*Human Smoke appears normally in demo mode.",
+      "*Human Smoke appears in endurance rounds."
+    ]
+  },
+  "Controls": {
+    "Layout": [
+      {
+        "Description": "High Punch",
+        "Code": "Y"
+      },
+      {
+        "Description": "Low Punch",
+        "Code": "B"
+      },
+      {
+        "Description": "High Kick",
+        "Code": "X"
+      },
+      {
+        "Description": "Low Kick",
+        "Code": "A"
+      },
+      {
+        "Description": "Block ",
+        "Code": "L"
+      },
+      {
+        "Description": "Run",
+        "Code": "R"
+      }
+    ],
+    "Movement": [
+      {
+        "Description": "forward",
+        "Code": "F"
+      },
+      {
+        "Description": "back",
+        "Code": "B"
+      },
+      {
+        "Description": "down",
+        "Code": "D"
+      },
+      {
+        "Description": "up",
+        "Code": "U"
+      }
+    ],
+
+    "Info": "You can reconfigure these with \"OPTIONS\". You can also set damage handicaps for 2-player games and disable blood/fatalities if you wish.",
+    "Basic Attacks": [
+      {
+        "Description": "high jab",
+        "Code": "HP"
+      },
+      {
+        "Description": "low jab",
+        "Code": "LP"
+      },
+      {
+        "Description": "HP/LP-punch pummel",
+        "Code": "tap"
+      },
+      {
+        "Description": "Inclose combo starter",
+        "Code": "HP(close)"
+      },
+      {
+        "Description": "throw",
+        "Code": "LP(close, but not in corner)"
+      },
+      {
+        "Description": "jump punch, can link into combo",
+        "Code": "(jump)HP/LP"
+      },
+      {
+        "Description": "uppercut",
+        "Code": "(crouch)HP"
+      },
+      {
+        "Description": "low jab",
+        "Code": "(crouch)LP"
+      },
+      {
+        "Description": "hard kick",
+        "Code": "HK"
+      },
+      {
+        "Description": "kick",
+        "Code": "LK-medium"
+      },
+      {
+        "Description": "jumpkick",
+        "Code": "(jump)HK/LK"
+      },
+      {
+        "Description": "knee/combo starter",
+        "Code": "HK/LK(close)"
+      },
+      {
+        "Description": "ducking medium",
+        "Code": "(crouch)HK"
+      },
+      {
+        "Description": "ducking short",
+        "Code": "(crouch)LK"
+      },
+      {
+        "Description": "roundhouse",
+        "Code": "B+HK"
+      },
+      {
+        "Description": "sweep",
+        "Code": "B+LK"
+      },
+      {
+        "Description": "vertical kick, can link into combo",
+        "Code": "U+HK/LK"
+      },
+      {
+        "Description": "block",
+        "Code": "BL"
+      },
+      {
+        "Description": "low block(must be used for sweeps)",
+        "Code": "(crouch)BL"
+      },
+      {
+        "Description": "air throw for certain characters",
+        "Code": "(jump)BL"
+      },
+      {
+        "Description": "jump",
+        "Code": "U/B or U or U/F"
+      },
+      {
+        "Description": "crouch",
+        "Code": "D"
+      },
+      {
+        "Description": "retreat/advance",
+        "Code": "B or F"
+      },
+      {
+        "Description": "run forward",
+        "Code": "F+hold RN"
+      },
+      {
+        "Description": "fake run",
+        "Code": "F+tap RN"
+      }
+    ]
+  },
+
+  "Playing Options": {
+    "Random select": [
+      {
+        "Description": "Player 1",
+        "Code": "U+start while on Rain"
+      },
+      {
+        "Description": "Player 2",
+        "Code": "U+start while on Noob"
+      }
+    ],
+    "Tournament": [
+      {
+        "Description": "2-on-2 Kombat",
+        "Directions": "Each side selects 2 fighters. When one loses, the second jumps in like an endurance round."
+      },
+      {
+        "Description": "8-man tournament",
+        "Directions": "Each side selects 4 fighters. There are a total of 7 one-round fights. Beware, you may have to use one of your opponent's selections later in the battle. Winner selects prize from Shao Kahn's Treasures."
+      },
+      {
+        "Description": "Old tournament",
+        "Directions": "Hold L+R, and start on left controller. First opponent to defeat all 8 of his/her opponent's fighters wins."
+      }
+    ]
+  },
+
+  "Finishers": {
+    "Notes": [
+      "When you succeed in draining your opponents' lifebar, it will say \"FINISH HIM/HER\" and you will have about 5 seconds to input a finishing kode. (If some involve tapping up, hold BL to keep from jumping!)",
+      "Don't do these too fast or else they won't work."
+    ],
+    "Codes": [
+      {
+        "Description": "FATALITY",
+        "Directions": "Do these at the right distance."
+      },
+      {
+        "Description": "FRIENDSHIP",
+        "Directions": "Must not use BL on winning round or they will not work. Do Reptile's and Scorpion's up close."
+      },
+      {
+        "Description": "BABALITY",
+        "Directions": "Must not use BL on winning round. Can be done anywhere."
+      },
+      {
+        "Description": "PIT",
+        "Directions": "Do up close on either PIT III or Lair stages"
+      },
+      {
+        "Description": "MERCY",
+        "Directions": "On round 3 only! (RN) for 3 seconds,D,D,and release. Brings them back to life. Originally used for Animalities."
+      },
+      {
+        "Description": "BRUTALITY",
+        "Directions": "Stand close and tap out the lengthy button sequence. Complete it and they churn out about 15 more hits ending with an exploding uppercut!"
+      }
+    ]
+  },
+
+  "Moves": {
+    "Notes": "(): hold/release",
+    "Characters": [
+      {
+        "Name": "Rain",
+        "Special": [
+          {
+            "Description": "Lightning",
+            "Code": "B,B,HP"
+          },
+          {
+            "Description": "Blue bubble",
+            "Code": "D,F,HP"
+          },
+          {
+            "Description": "Power Kick",
+            "Code": "B+HK"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(3)",
+            "Code": "Lightning,PowerKick,uppercut",
+            "Damage": "25%"
+          },
+          {
+            "Description": "(4)",
+            "Code": [
+              {
+                "Code": "HK,HK,LP,HP",
+                "Damage": "21%"
+              },
+              {
+                "Code": "HP,HP,LP,HP",
+                "Damage": "22%"
+              },
+              {
+                "Code": "PowerKick,PowerKick,PowerKick,uppercut",
+                "Damage": "27%"
+              },
+              {
+                "Code": "Lightning,PowerKick,PowerKick,roundhouse",
+                "Damage": "27%"
+              },
+              {
+                "Code": "Jumpkick,bubble,PowerKick,uppercut",
+                "Damage": "36%"
+              }
+            ]
+          },
+          {
+            "Description": "(5)",
+            "Code": [
+              {
+                "Code": "PowerKick,PowerKick,PowerKick,LP,LP",
+                "Damage": "21%"
+              },
+              {
+                "Code": "Lightning,HP,bubble,HP,jumpkick",
+                "Damage": "30%"
+              },
+              {
+                "Code": "Jump,HP,HP,HP,LP,HP",
+                "Damage": "31%"
+              }
+            ]
+          },
+          {
+            "Description": "(6)",
+            "Code": [
+              {
+                "Code": "Lightning,PowerKick,PowerKick,LP,LP,jumpkick",
+                "Damage": "31%"
+              },
+              {
+                "Code": "HK,HK,LK,HK,B+HK,uppercut",
+                "Damage": "35%"
+              },
+              {
+                "Code": "Bubble,HP,bubble,HP,jumpkick,sweep",
+                "Damage": "37%"
+              }
+            ]
+          },
+          {
+            "Description": "(8)",
+            "Code": "HK,HK,LK,HK,B+HK,LP,LP,jumpkick",
+            "Damage": "37%"
+          }
+        ],
+        "Babality": "F,B,B,HP",
+        "Pit": "F,D,F,LK",
+        "Brutality": "HP,HP,BL,LK,HK,BL,LK,HK,BL,HP,LP",
+        "Notes": [
+          "Rain can't use bubble or powerkick after 3 hits.",
+          "Lightning cannot be used in middle of combo.",
+          "In this version Rain has no friendship,fatalities."
+        ]
+      },
+      {
+        "Name": "Reptile",
+        "Special": [
+          {
+            "Description": "Orb(slow)",
+            "Code": "B,B,HP+LP"
+          },
+          {
+            "Description": "Orb(fast)",
+            "Code": "F,F,HP+LP"
+          },
+          {
+            "Description": "Acid Spit",
+            "Code": "F,F,HP"
+          },
+          {
+            "Description": "Inviso",
+            "Code": "U,D,HK"
+          },
+          {
+            "Description": "Run behind&punch",
+            "Code": "B,F,LK"
+          },
+          {
+            "Description": "Slide",
+            "Code": "B+LP+BL+LK"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(2)",
+            "Code": "Jumpkick,slide",
+            "Damage": "19-23%"
+          },
+          {
+            "Description": "(3)",
+            "Code": [
+              {
+                "Code": "HK,HK,B+HK",
+                "Damage": "21%"
+              },
+              {
+                "Code": "Orb,uppercut,slide",
+                "Damage": "25%",
+                "Notes": "Opponent must be above head before uppercut."
+              }
+            ]
+          },
+          {
+            "Description": "(4)",
+            "Code": "HP,HP,HK,B+HK",
+            "Damage": "24%"
+          },
+          {
+            "Description": "(5)",
+            "Code": [
+              {
+                "Code": "Jump HP,HP,HP,D+LP,sweep",
+                "Damage": "33%"
+              },
+              {
+                "Code": "Orb,HP,fast orb,uppercut,slide",
+                "Damage": "33%"
+              },
+              {
+                "Code": "HP,HP,D+LP,fast orb,uppercut",
+                "Damage": "34%"
+              }
+            ]
+          },
+          {
+            "Description": "(6)",
+            "Code": [
+              {
+                "Code": "HP,HP,D+LP,fast orb,HP,spit",
+                "Damage": "30%"
+              },
+              {
+                "Code": "Jump HP,HP,HP,D+LP,jumpkick,sweep",
+                "Damage": "41%",
+                "Notes": "Must be near corner."
+              }
+            ]
+          },
+          {
+            "Description": "(7)",
+            "Code": "HP,HP,D+LP,fast orb,HP,jumpkick,sweep(40%)"
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "Tongue food",
+            "Code": "B,F,D,BL",
+            "Notes": "Two-thirds screen"
+          },
+          {
+            "Description": "Acid loogie",
+            "Code": "F,F,U,U,HK",
+            "Notes": "One-quarter screen"
+          }
+        ],
+        "Friendship": {
+          "Description": "Reptile-in-a-box",
+          "Code": "D,F,F,B,HK"
+        },
+        "Brutality": "HP,BL,HK,HK,BL,HP,LP,LK,LK,BL,LP",
+        "Babality": "F,F,B,D,LK",
+        "Pit": "BL,RN,BL,BL",
+        "Notes": ["Reptile can't use the orb after 4 hits."]
+      },
+      {
+        "Name": "Stryker",
+        "Special": [
+          {
+            "Description": "Grenade(high)",
+            "Code": "D,B,HP"
+          },
+          {
+            "Description": "Grenade(low)",
+            "Code": "D,B,LP"
+          },
+          {
+            "Description": "Gun",
+            "Code": "B,F,HP"
+          },
+          {
+            "Description": "Baton",
+            "Code": "F,F,HK"
+          },
+          {
+            "Description": "Baton trip",
+            "Code": "F,B,LP"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(3)",
+            "Code": [
+              {
+                "Code": "LK,LK,B+HK",
+                "Damage": "19%"
+              },
+              {
+                "Code": "Jumpkick,gun,run in,baton throw",
+                "Damage": "41%"
+              }
+            ]
+          },
+          {
+            "Description": "(4)",
+            "Code": [
+              {
+                "Code": "LK,LK,B+LP,B+HK",
+                "Damage": "23%"
+              },
+              {
+                "Code": "LK,HP,HP,LP",
+                "Damage": "23%"
+              },
+              {
+                "Code": "HP,HP,LP,jumpkick",
+                "Damage": "25%"
+              }
+            ]
+          },
+          {
+            "Description": "(6)",
+            "Code": "Jump,HP,HP,HP,LP,gun,run in,HK(40%)"
+          },
+          {
+            "Description": "(7)",
+            "Code": [
+              {
+                "Code": "Jump HP,HP,HP,LP,gun,run in,jumpkick,sweep",
+                "Damage": "47%"
+              },
+              {
+                "Code": "Jump,HP,HP,HP,LP,jumpkick,gun,run in,uppercut",
+                "Damage": "52%",
+                "Notes": "Gun must push into corner."
+              }
+            ]
+          },
+          {
+            "Description": "(11)",
+            "Code": "Jump HP,HP,HP,LP,walk in,HP,jumpkick,gun,run in,HP,HP,LP,sweep",
+            "Damage": "59%",
+            "Notes": "Must be relatively close to corner, but not too close or else you will get pushed out."
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "Time Bomb",
+            "Code": "D,F,D,F,BL",
+            "Notes": "Close"
+          },
+          {
+            "Description": "Laser",
+            "Code": "F,F,F,LK",
+            "Notes": "Far"
+          }
+        ],
+        "Friendship": [
+          {
+            "Description": "Crossing Guard",
+            "Code": "LP,RN,RN,LP"
+          }
+        ],
+        "Brutality": "HP,LP,HK,LK,HP,LP,LK,HK,HP,LK,LK",
+        "Babality": "D,F,F,B,HP",
+        "Pit": "F,U,U,HK"
+      },
+      {
+        "Name": "Jax",
+        "Special": [
+          {
+            "Description": "Rocket",
+            "Code": "B,F,HP"
+          },
+          {
+            "Description": "Rocketx2",
+            "Code": "F,F,B,B,HP"
+          },
+          {
+            "Description": "Blur punch",
+            "Code": "F,F,HK"
+          },
+          {
+            "Description": "Gotcha grab",
+            "Code": "F,F,LP(tap LP)"
+          },
+          {
+            "Description": "Earthquake",
+            "Code": "(LK)"
+          },
+          {
+            "Description": "Quad throw",
+            "Code": "LP(close)(tap HP)"
+          },
+          {
+            "Description": "Backbreaker",
+            "Code": "(jump)BL"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(3)",
+            "Code": "HK,HK,B+HK",
+            "Damage": "19%"
+          },
+          {
+            "Description": "(5)",
+            "Code": "HP,HP,BL,LP,B+HP",
+            "Damage": "24%"
+          },
+          {
+            "Description": "(7)",
+            "Code": "HK,HK,D+HP,HP,BL,LP,B+HP",
+            "Damage": "33%"
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "Mincer",
+            "Code": "(BL)U,D,F,U",
+            "Notes": "Close"
+          },
+          {
+            "Description": "Giant",
+            "Code": "RN,BL,RN,RN,LK",
+            "Notes": "Far"
+          }
+        ],
+        "Friendship": {
+          "Description": "Jump Rope",
+          "Code": "LK,RN,RN,LK"
+        },
+        "Brutality": "HP,HP,HP,BL,LP,HP,HP,HP,BL,LP,HP",
+        "Babality": "D,D,D,LK",
+        "Pit": "D,F,D,LP"
+      },
+      {
+        "Name": "Nightwolf",
+        "Special": [
+          {
+            "Description": "Axe",
+            "Code": "D,F,HP"
+          },
+          {
+            "Description": "Shoulder",
+            "Code": "F,F,LK"
+          },
+          {
+            "Description": "Shield",
+            "Code": "B,B,B,HK"
+          },
+          {
+            "Description": "Arrow",
+            "Code": "D,B,LP"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(3)",
+            "Code": [
+              {
+                "Code": "HK,HK,B+HK",
+                "Damage": "19%"
+              },
+              {
+                "Code": "Axe,jumpkick,sweep",
+                "Damage": "24%",
+                "Notes": "Only works on jumping opponent."
+              }
+            ]
+          },
+          {
+            "Description": "(5)",
+            "Code": "HK,HP,HP,LP,HK",
+            "Damage": "27%"
+          },
+          {
+            "Description": "(7)",
+            "Code": "Jump HP,HP,HP,LP,D to F+HP,jumpkick,sweep",
+            "Damage": "52%"
+          }
+        ],
+        "Fatalties": [
+          {
+            "Description": "Lightning strike",
+            "Code": "B,B,D,HP",
+            "Notes": "Two-thirds screen"
+          },
+          {
+            "Description": "Dissappearance",
+            "Code": "U,U,B,F,BL",
+            "Notes": "Close"
+          }
+        ],
+        "Friendship": {
+          "Description": "Rayden/MK2 machine",
+          "Code": "RN,RN,RN,D"
+        },
+        "Brutality": "HP,HP,HK,LK,LK,BL,BL,LP,LP,HP,HK",
+        "Babality": "F,B,F,B,LP",
+        "Pit": "RN,RN,BL"
+      },
+      {
+        "Name": "Jade",
+        "Special": [
+          {
+            "Description": "Shuriken(mid)",
+            "Code": "B,F,LP"
+          },
+          {
+            "Description": "Shuriken(high)",
+            "Code": "B,F,HP"
+          },
+          {
+            "Description": "Shuriken(low)",
+            "Code": "B,F,LK"
+          },
+          {
+            "Description": "(returning)(2-player only)",
+            "Code": "B,B,F,LP"
+          },
+          {
+            "Description": "Jade Kick",
+            "Code": "D,F,LK"
+          },
+          {
+            "Description": "Defensive flash",
+            "Code": "B,F,HK"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(2)",
+            "Code": "Jumpkick,Jade kick",
+            "Damage": "21-27%"
+          },
+          {
+            "Description": "(4)",
+            "Code": [
+              {
+                "Code": "HP,HP,D+LP,D+HP",
+                "Damage": "22%"
+              },
+              {
+                "Code": "HK,HK,LK,B+HK",
+                "Damage": "23%"
+              }
+            ]
+          },
+          {
+            "Description": "(7)",
+            "Code": "HP,HP,D+LP,LK,HK,LK,B+HK",
+            "Damage": "25%"
+          },
+          {
+            "Description": "(9)",
+            "Code": "Returning boomerang,jump,HP,HP,HP,D+LP,LK,HK,LK,B+HK",
+            "Damage": "46%",
+            "Notes": [
+              "Immediately after sweep in 2-player game.",
+              "Make sure boomerang misses first pass!"
+            ]
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "Shishkabob",
+            "Code": "RN,RN,RN,BL,RN(close)"
+          },
+          {
+            "Description": "Shake em up",
+            "Code": "U,U,D,F,HP",
+            "Notes": "Close"
+          }
+        ],
+        "Friendship": {
+          "Description": "Bounces on Stick)",
+          "Code": "B,D,B,B,HK"
+        },
+        "Brutality": "HP,LK,HP,LP,HK,HK,LK,BL,BL,HP,HK",
+        "Babality": "D,D,F,D,HK",
+        "Pit": "B,F,D+RN",
+        "Notes": ["Jade can't use Jade Kick after 2 hits."]
+      },
+      {
+        "Name": "NoobSaibot",
+        "Special": [
+          {
+            "Description": "Katatonic Blast",
+            "Code": "D,F,LP"
+          },
+          {
+            "Description": "Mirror Image Throw",
+            "Code": "F,F,HP"
+          },
+          {
+            "Description": "Teleport Slam",
+            "Code": "D,U"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(2)",
+            "Code": [
+              {
+                "Code": "Slam,uppercut",
+                "Damage": "19%"
+              },
+              {
+                "Code": "Image throw,blast,blast",
+                "Damage": "20%",
+                "Notes": "First blast has to be done right away."
+              }
+            ]
+          },
+          {
+            "Description": "(3)",
+            "Code": "Image throw,HP,ducking LP,uppercut",
+            "Damage": "31%",
+            "Notes": "Image throw has to be into a corner."
+          },
+          {
+            "Description": "(4)",
+            "Code": [
+              {
+                "Code": "HP,HP,LP,HK",
+                "Damage": "22%"
+              },
+              {
+                "Code": "LK,LK,LK,LK",
+                "Damage": "23%"
+              },
+              {
+                "Code": "Jumpkick,slam,HP,katatonic blast",
+                "Damage": "28%"
+              }
+            ]
+          },
+          {
+            "Description": "(5)",
+            "Code": "Image throw(into corner),HP,HP,slam,blast,HK",
+            "Damage": "30%"
+          },
+          {
+            "Description": "(6)",
+            "Code": "Image throw,HP,HP,HP,slam,run,HP,jumppunch",
+            "Damage": "36%",
+            "Notes": "Full screen away."
+          },
+          {
+            "Description": "(7)",
+            "Code": "jumpkick,HP,slam,blast,HP,slam,uppercut",
+            "Damage": "52%",
+            "Notes": "in a corner."
+          },
+          {
+            "Description": "(8)",
+            "Code": "Jump,HP,HP,HP,LP,HK,walk in,LP,Slam,uppercut",
+            "Damage": "54%"
+          },
+          {
+            "Description": "(9)",
+            "Code": "Jump,HP,HP,HP,LP,HK,walk in,LP,Slam,HP,jumppunch",
+            "Damage": "51%"
+          }
+        ],
+
+        "Special Combos": [
+          {
+            "Description": "(3)",
+            "Code": [
+              {
+                "Code": "..ducking LP,ducking HK",
+                "Damage": "14%"
+              },
+              {
+                "Code": "..ducking LP,uppercut",
+                "Damage": "21%"
+              }
+            ]
+          },
+          {
+            "Description": "(5)",
+            "Code": "..ducking LP,standing LP,blast,sweep",
+            "Damage": "19%"
+          },
+          {
+            "Description": "(7)",
+            "Code": "..standing LP,blast,run,LK,LK,LK,LK",
+            "Damage": "23%"
+          },
+          {
+            "Description": "Infinite",
+            "Code": "Slam, image throw, blast, jump HP,HP,HP,LP,HK, jumpkick, slam, image throw, run in,uppercut",
+            "Damage": "99%"
+          },
+          {
+            "Notes": "All of these combos start with a teleport slam in the corner..."
+          }
+        ],
+        "Brutality": "HP,LK,LP,BL,LK,HK,HP,LP,BL,LK,HK",
+        "Babality": "F,F,F,LP  Pit:D,F,BL",
+        "notes": [
+          "Noob can't use katatonic blast after 4 hits.",
+          "Noob has no fatalities or friendship in this version."
+        ]
+      },
+      {
+        "Name": "Sonya",
+        "Special": [
+          {
+            "Description": "Rings",
+            "Code": "D,F,LP"
+          },
+          {
+            "Description": "Leg Grab",
+            "Code": "D+LP+BL"
+          },
+          {
+            "Description": "Fly punch",
+            "Code": "F,B,HP"
+          },
+          {
+            "Description": "Bike kick",
+            "Code": "B,B,D,HK"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(2)",
+            "Code": "Jumpkick,leg grab",
+            "Damage": "26%"
+          },
+          {
+            "Description": "(3)",
+            "Code": "HK,HK,B+HK",
+            "Damage": "19%"
+          },
+          {
+            "Description": "(4)",
+            "Code": "HP,HP,LP,B+HP",
+            "Damage": "22%"
+          },
+          {
+            "Description": "(6)",
+            "Code": [
+              {
+                "Code": "HK,HK,HP,HP,LP,B+HP",
+                "Damage": "31%"
+              },
+              {
+                "Code": "Jump,HP,HP,HP,U+LP,jumpkick,leg grab",
+                "Damage": "40%"
+              }
+            ]
+          },
+          {
+            "Description": "(7)",
+            "Code": "HK,HK,HP,HP,U+LP,jumpkick,leg grab(40%)"
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "Kiss of death",
+            "Code": "B,F,D,D,RN"
+          },
+          {
+            "Description": "Purple bubble",
+            "Code": "(BL+RN)U,U,B,D",
+            "Notes": "Far"
+          }
+        ],
+        "Friendship": {
+          "Description": "Aerobics)",
+          "Code": "B,F,B,D+RN"
+        },
+        "Brutality": "HP,LK,BL,HP,LK,BL,HP,LP,BL,HK,LK",
+        "Babality": "D,D,F,LK",
+        "Pit": "F,F,D,HP"
+      },
+      {
+        "Name": "Kano",
+        "Special": [
+          {
+            "Description": "Knife toss",
+            "Code": "D,B,HP"
+          },
+          {
+            "Description": "Knife slash",
+            "Code": "D,F,HP"
+          },
+          {
+            "Description": "Roll",
+            "Code": "(LK)"
+          },
+          {
+            "Description": "Roll(upward)",
+            "Code": "F,D,F,HK"
+          },
+          {
+            "Description": "Choke",
+            "Code": "D,F,LP"
+          },
+          {
+            "Description": "Air choke",
+            "Code": "(jump),BL"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(3)",
+            "Code": [
+              {
+                "Code": "HP,HP,LP",
+                "Damage": "18%"
+              },
+              {
+                "Code": "LK,D+LP,D+HP",
+                "Damage": "19%"
+              },
+              {
+                "Code": "LK,LP,upward roll",
+                "Damage": "22%"
+              },
+              {
+                "Code": "LK,LP,walk in,uppercut",
+                "Damage": "25%"
+              }
+            ]
+          },
+          {
+            "Description": "(4)",
+            "Code": "HK,HK,LK,B+HK",
+            "Damage": "23%"
+          },
+          {
+            "Description": "(5)",
+            "Code": "HP,HP,HK,LK,B+HK",
+            "Damage": "26%"
+          },
+          {
+            "Description": "(8)",
+            "Code": "Jump,HP,HP,HP,D+LP,D+HP,walk in,HP,jumpkick,knife slash",
+            "Damage": "50%",
+            "Notes": "Must be near a corner."
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "Skeleton removal",
+            "Code": "(LP)F,D,D,F",
+            "Notes": "Must be close"
+          },
+          {
+            "Description": "Eye beam",
+            "Code": "LP,BL,BL,HK",
+            "Notes": "Must be half screen"
+          }
+        ],
+        "Friendship": {
+          "Description": "Bubblegum",
+          "Code": "LK,RN,RN,HK"
+        },
+        "Brutality": "HP,LP,BL,LP,HP,BL,HK,LK,BL,HK,LK",
+        "Babality": "F,F,D,D,LK",
+        "Pit": "U,U,B,LK"
+      },
+      {
+        "Name": "Mileena",
+        "Special": [
+          {
+            "Description": "Twin daggers",
+            "Code": "(HP)"
+          },
+          {
+            "Description": "Ball",
+            "Code": "B,B,D,HK"
+          },
+          {
+            "Description": "Sky drop",
+            "Code": "F,F,LK"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(2)",
+            "Code": "Ball,jumpkick",
+            "Damage": "17%"
+          },
+          {
+            "Description": "(3)",
+            "Code": "HK,HK,D to F+LK",
+            "Damage": "16%"
+          },
+          {
+            "Description": "(4)",
+            "Code": "HP,HP,U+LP,D+LP",
+            "Damage": "22%"
+          },
+          {
+            "Description": "(5)",
+            "Code": "roll,jumpkick,roll,jumpkick,sweep",
+            "Damage": "36%",
+            "Notes": "Must be done in a corner."
+          },
+          {
+            "Description": "(6)",
+            "Code": "HP,HP,HK,HK,U+LK,U+HK",
+            "Damage": "30%"
+          },
+          {
+            "Description": "(7)",
+            "Code": "Jump,HP,HP,HP,HK,HK,D to F+LK,jumpkick",
+            "Damage": "35%",
+            "Notes": "Can add a sweep if near a corner for 41%."
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "Bone spit",
+            "Code": "D,F,D,F,LP",
+            "Notes": "Close"
+          },
+          {
+            "Description": "Nail spit",
+            "Code": "B,B,B,F,LK",
+            "Notes": "Far"
+          }
+        ],
+        "Friendship": {
+          "Description": "Looks in mirror and breaks it",
+          "Code": "D,B,F,HP"
+        },
+        "Brutality": "HP,LP,LP,HP,BL,HK,LK,HK,BL,HP,LP",
+        "Babality": "D,D,F,F,HP",
+        "Pit": "D,D,D,LP"
+      },
+      {
+        "Name": "Classic Sub-Zero",
+        "Special": [
+          {
+            "Description": "Ice",
+            "Code": "D,F,LP"
+          },
+          {
+            "Description": "Pool",
+            "Code": "D,B,LK"
+          },
+          {
+            "Description": "Slide",
+            "Code": "B+LP+BL+LK"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(2)",
+            "Code": "Jumpkick,slide",
+            "Damage": "19/23%"
+          },
+          {
+            "Description": "(3)",
+            "Code": "HK,B+HK,F+LK",
+            "Damage": "19%"
+          },
+          {
+            "Description": "(5)",
+            "Code": "HP,HP,LK,B+HK,F+LK",
+            "Damage": "26%"
+          },
+          {
+            "Description": "(7)",
+            "Code": "Freeze,jump,HP,HP,HP,D+LP,D+HP,jumpkick,slide",
+            "Damage": "43%"
+          },
+          {
+            "Description": "(8)",
+            "Code": "Freeze,vertical kick,HP,HP,D+LP,D+HP,jumpkick, roundhouse,slide",
+            "Damage": "53%",
+            "Notes": "After freeze, push from 3/4 screen to corner."
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "Head rip",
+            "Code": "D,D,D,F,HP",
+            "Notes": "Close"
+          }
+        ],
+        "Brutality": "HP,LP,HP,BL,LK,LK,HK,HK,LP,HP,LP",
+        "Babality": "none in this version",
+        "Pit": "F,D,F,F,HP",
+        "notes": [
+          "Sub can't use Ice or pool after 2 hits.",
+          "He has no 2nd fatality or friendship on this version."
+        ]
+      },
+      {
+        "Name": "Sub-Zero",
+        "Special": [
+          {
+            "Description": "Ice",
+            "Code": "D,F,LP"
+          },
+          {
+            "Description": "Ice storm",
+            "Code": "D,B,HP"
+          },
+          {
+            "Description": "Ice(near)",
+            "Code": "D,F,B,HP"
+          },
+          {
+            "Description": "Ice(far)",
+            "Code": "D,B,F,HP"
+          },
+          {
+            "Description": "Ice image",
+            "Code": "D,B,LP"
+          },
+          {
+            "Description": "Slide",
+            "Code": "B+LP+BL+LK"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(2)",
+            "Code": "Jumpkick,slide",
+            "Damage": "19/23%"
+          },
+          {
+            "Description": "(3)",
+            "Code": "HK,HK,B+HK",
+            "Damage": "19%"
+          },
+          {
+            "Description": "(5)",
+            "Code": "HP,HP,LK,HK,B+HK",
+            "Damage": "26%"
+          },
+          {
+            "Description": "(6)",
+            "Code": "HP,HP,LP,LK,HK,B+HK",
+            "Damage": "23%"
+          },
+          {
+            "Description": "(8)",
+            "Code": "Freeze,jump,HP,HP,HP,LP,LK,HK,B+HK,slide",
+            "Damage": "36%",
+            "Notes": "Freeze must push near corner."
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "Ice breath",
+            "Code": "B,B,D,B,RN",
+            "Notes": "One-half screen"
+          },
+          {
+            "Description": "Icebreaker",
+            "Code": "BL,BL,RN,BL,RN",
+            "Notes": "Close"
+          }
+        ],
+        "Friendship": {
+          "Description": "Snowman",
+          "Code": "LK,RN,RN,U"
+        },
+        "Brutality": "HP,LK,HK,LP,HP,HK,HK,HP,HP,LP,HP",
+        "Babality": "D,B,B,HK",
+        "Pit": "B,D,F,F,HK",
+        "notes": ["Sub can't use ice or image after 2 hits."]
+      },
+      {
+        "Name": "Kung Lao",
+        "Special": [
+          {
+            "Description": "Hat blade",
+            "Code": "B,F,LP"
+          },
+          {
+            "Description": "Teleport",
+            "Code": "D,U(P or K to attack)"
+          },
+          {
+            "Description": "Suicide kick",
+            "Code": "Jump U,D+HK"
+          },
+          {
+            "Description": "Turbine",
+            "Code": "F,D,F,RN,RN,RN,.."
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(2)",
+            "Code": "Suicide kick,sweep",
+            "Damage": "21%"
+          },
+          {
+            "Description": "(3)",
+            "Code": [
+              {
+                "Code": "HP,LK,B+HK",
+                "Damage": "18%"
+              },
+              {
+                "Code": "LK,LK,HK",
+                "Damage": "19%"
+              }
+            ]
+          },
+          {
+            "Description": "(7)",
+            "Code": "HP,LP,HP,LP,LK,LK,B+HK",
+            "Damage": "34%"
+          },
+          {
+            "Description": "Infinite",
+            "Code": "Turbine,1 step back...",
+            "Damage": "100%",
+            "Notes": "Must be in a corner."
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "Dismemberment",
+            "Code": "F,F,B,D,HP",
+            "Notes": "Close"
+          },
+          {
+            "Description": "Blender",
+            "Code": "RN,BL,RN,BL,D",
+            "Notes": "Anywhere"
+          }
+        ],
+        "Friendship": {
+          "Description": "Hat Trick",
+          "Code": "RN,LP,RN,LK"
+        },
+        "Brutality": "HP,LP,LK,HK,BL,HP,LP,LK,HK,BL,HP",
+        "Babality": "D,F,F,HP",
+        "Pit": "D,D,F,F,LK"
+      },
+      {
+        "Name": "Sektor",
+        "Special": [
+          {
+            "Description": "Missile",
+            "Code": "F,F,LP"
+          },
+          {
+            "Description": "Missle(homing)",
+            "Code": "F to D to B+HP"
+          },
+          {
+            "Description": "Teleport punch",
+            "Code": "F,F,LK"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(2)",
+            "Code": "HK,HK",
+            "Damage": "15%"
+          },
+          {
+            "Description": "(3)",
+            "Code": "HP,HP,D+LP",
+            "Damage": "18%"
+          },
+          {
+            "Description": "(4)",
+            "Code": [
+              {
+                "Code": "HP,HP,HK,B+HK",
+                "Damage": "22%"
+              },
+              {
+                "Code": "Homing missile,teleport,jumpkick,sweep",
+                "Damage": "49%"
+              }
+            ]
+          },
+          {
+            "Description": "(5)",
+            "Code": "HP,HP,HK,HK,B+HK",
+            "Damage": "26%"
+          },
+          {
+            "Description": "(7)",
+            "Code": "Homing missile,jump,HP,HP,HP,D+LP,jumpkick,sweep",
+            "Damage": "53%"
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "Flamethrower",
+            "Code": "F,F,F,B+BL",
+            "Notes": "Two-thirds screen"
+          },
+          {
+            "Description": "Smasher",
+            "Code": "LP,RN,RN,BL",
+            "Notes": "One-third screen"
+          }
+        ],
+        "Friendship": {
+          "Description": "Hammer Game",
+          "Code": "RN,RN,RN,RN,D"
+        },
+        "Brutality": "HP,HP,BL,BL,HK,HK,LK,LK,LP,LP,HP",
+        "Babality": "B,D,D,D,HK",
+        "Pit": "RN,RN,RN,D",
+        "notes": ["Sektor can't use teleport punch after 2 hits."]
+      },
+      {
+        "Name": "Kitana",
+        "Special": [
+          {
+            "Description": "Fans",
+            "Code": "F,F,HP+LP"
+          },
+          {
+            "Description": "Elevate",
+            "Code": "B,B,B,HP"
+          },
+          {
+            "Description": "Jet Punch",
+            "Code": "D,B,HP"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(4)",
+            "Code": [
+              {
+                "Code": "Elevate,jumppunch,fans,jet punch",
+                "Damage": "19%"
+              },
+              {
+                "Code": "HK,HK,LK,B+HK",
+                "Damage": "23%"
+              },
+              {
+                "Code": "HP,HP,B+LP,F+HP",
+                "Damage": "25%"
+              },
+              {
+                "Code": "Jumpkick,fans,jumpkick,sweep",
+                "Damage": "36%"
+              }
+            ]
+          },
+          {
+            "Description": "(5)",
+            "Code": [
+              {
+                "Code": "Elevate,jumppunch,fans,jumpkick,sweep",
+                "Damage": "25%"
+              },
+              {
+                "Code": "elevate,jumpkick,fans,jumpkick,HK",
+                "Damage": "29%",
+                "Notes": "Back into corner."
+              }
+            ]
+          },
+          {
+            "Description": "(6)",
+            "Code": "Deep jumppunch,fans,run,HP,HP,B+LP,F+HP",
+            "Damage": "36%"
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "Inflate kiss",
+            "Code": "RN,RN,BL,BL,LK",
+            "Notes": "Close"
+          },
+          {
+            "Description": "Head chop",
+            "Code": "B,D,F,F,HK",
+            "Notes": "Close"
+          }
+        ],
+        "Friendship": {
+          "Description": "Blows Bubbles",
+          "Code": "D,B,F,F,LP"
+        },
+        "Brutality": "HP,HP,BL,HK,BL,LK,BL,LP,BL,HP,BL",
+        "Babality": "F,F,D,F,HK",
+        "Pit": "F,D,D,LK",
+        "Notes": ["Elevate can't be used in combo."]
+      },
+      {
+        "Name": "Ermac",
+        "Special": [
+          {
+            "Description": "Inviso Slam",
+            "Code": "B,D,B,HK"
+          },
+          {
+            "Description": "Teleport punch",
+            "Code": "D,B,HP"
+          },
+          {
+            "Description": "Fireball",
+            "Code": "D,B,LP"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(3)",
+            "Code": [
+              {
+                "Description": "Slam,HP,HP,teleport",
+                "Damage": "22%"
+              },
+              {
+                "Description": "Slam,HP,HP,fireball",
+                "Damage": "25%"
+              },
+              {
+                "Description": "Slam,HP,jumpkick,sweep",
+                "Damage": "34%"
+              }
+            ]
+          },
+          {
+            "Description": "(4)",
+            "Code": "HK,HK,LK,B+HK",
+            "Damage": "23%"
+          },
+          {
+            "Description": "(5)",
+            "Code": [
+              {
+                "Description": "HP,HP,B+LP,HK,LK",
+                "Damage": "24%"
+              },
+              {
+                "Description": "LK,LP,slam,HP,jumpkick,sweep",
+                "Damage": "32%"
+              }
+            ]
+          },
+          {
+            "Description": "(6)",
+            "Code": "Cross kick,teleport,slam,HP,jumpkick,teleport,sweep",
+            "Damage": "41%"
+          },
+          {
+            "Description": "(7)",
+            "Code": [
+              {
+                "Description": "Jump,HP,HP,HP,B+LP,D to F+LP,jumpkick,sweep",
+                "Damage": "43%"
+              },
+              {
+                "Description": "LK,LP,jumpkick,teleport,slam,HP,jumpkick,sweep",
+                "Damage": "44%"
+              }
+            ]
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "Head punch",
+            "Code": "RN,BL,RN,RN,HK",
+            "Notes": ""
+          },
+          {
+            "Description": "Bloody slam",
+            "Code": "D,U,D,D,D,BL",
+            "Notes": "One to two thirds screen"
+          }
+        ],
+        "Brutality": "HP,HP,LP,BL,HK,LK,BL,HP,LP,LK,HK",
+        "Babality": "none on this version",
+        "Pit": "RN,RN,RN,RN,LK",
+        "notes": [
+          "Ermac can't Slam or teleport after 5 hits.",
+          "He has no friendship in this version."
+        ]
+      },
+      {
+        "Name": "Scorpion",
+        "Special": [
+          {
+            "Description": "Spear",
+            "Code": "B,B,LP"
+          },
+          {
+            "Description": "Teleport Punch",
+            "Code": "D,B,HP"
+          },
+          {
+            "Description": "Air throw",
+            "Code": "(jump),BL"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(2)",
+            "Code": "Spear,uppercut",
+            "Damage": "26%"
+          },
+          {
+            "Description": "(3)",
+            "Code": [
+              {
+                "Description": "HP,HP,U+LP",
+                "Damage": "18%"
+              },
+              {
+                "Description": "Cross kick,teleport,run,HK",
+                "Damage": "27%"
+              }
+            ]
+          },
+          {
+            "Description": "(4)",
+            "Code": [
+              {
+                "Description": "HK,HK,LK,LK",
+                "Damage": "23%"
+              },
+              {
+                "Description": "HP,HP,HK,B+HK",
+                "Damage": "24%"
+              }
+            ]
+          },
+          {
+            "Description": "(5)",
+            "Code": "Spear,HP,HP,HK,B+HK",
+            "Damage": "28%"
+          },
+          {
+            "Description": "(6)",
+            "Code": [
+              {
+                "Description": "Teleport,spear,HK,HK,LK,LK",
+                "Damage": "22%"
+              },
+              {
+                "Description": "Jumpkick,spear,HP,HP,HK,B+HK",
+                "Damage": "29%"
+              }
+            ]
+          },
+          {
+            "Description": "(7)",
+            "Code": "Jumpkick,teleport,spear,HP,HP,HK,B+HK",
+            "Damage": "33%"
+          },
+          {
+            "Description": "(8)",
+            "Code": "Cross kick,teleport,run,LP,spear,HP,HP,HK,B+HK",
+            "Damage": "36%"
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "Toasty!",
+            "Code": "D,D,U,HK",
+            "Notes": "Two-thirds screen"
+          },
+          {
+            "Description": "Hotter than...",
+            "Code": "F,F,D,U,RN",
+            "Notes": "Close"
+          }
+        ],
+        "Friendship": {
+          "Description": "Skull-in-a-Box",
+          "Code": "B,F,F,B,LK"
+        },
+        "Brutality": "HP,HP,BL,HK,HK,LK,HK,HP,HP,LP,HP",
+        "Babality": "D,B,B,F,HP",
+        "Pit": "F,U,U,LP",
+        "notes": ["Scorpion can't teleport after 2 hits"]
+      },
+      {
+        "Name": "Cyrax",
+        "Special": [
+          {
+            "Description": "Net",
+            "Code": "B,B,LK"
+          },
+          {
+            "Description": "Bomb",
+            "Code": "(LK),F,F,HK"
+          },
+          {
+            "Description": "Bomb(near)",
+            "Code": "(LK),B,B,HK"
+          },
+          {
+            "Description": "Teleport",
+            "Code": "F,D,BL"
+          },
+          {
+            "Description": "Air throw",
+            "Code": "D,F,BL,LP"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(2)",
+            "Code": [
+              {
+                "Description": "Throw,roundhouse",
+                "Damage": "24%"
+              },
+              {
+                "Description": "Throw,air throw",
+                "Damage": "30%"
+              }
+            ]
+          },
+          {
+            "Description": "(3)",
+            "Code": [
+              {
+                "Description": "HP,HP,LP",
+                "Damage": "18%"
+              },
+              {
+                "Description": "HK,HK,B+HK",
+                "Damage": "19%"
+              }
+            ]
+          },
+          {
+            "Description": "(4)",
+            "Code": "Throw,LP,jumpkick,sweep",
+            "Damage": "31%"
+          },
+          {
+            "Description": "(6)",
+            "Code": "HP,HP,HK,HP,HK,B+HK",
+            "Damage": "30%"
+          },
+          {
+            "Description": "(7)",
+            "Code": "Net,jump,HP,HP,HP,HK,HP,HK,B+HK",
+            "Damage": "40%"
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "Helio slash",
+            "Code": "D,D,U,D,HP",
+            "Notes": "Anywhere"
+          },
+          {
+            "Description": "Last request",
+            "Code": "D,D,F,U,RN",
+            "Notes": "Close"
+          }
+        ],
+        "Friendship": {
+          "Description": "Boogie Down",
+          "Code": "RN,RN,RN,U"
+        },
+        "Brutality": "HP,HK,HP,HK,HK,HP,HK,HP,HK,LK,LP",
+        "Babality": "F,F,B,HP  Pit:RN,BL,RN",
+        "notes": ["Cyrax can't use net after 3 hits."]
+      },
+      {
+        "Name": "Kabal",
+        "Special": [
+          {
+            "Description": "Time stop",
+            "Code": "B,F,LK"
+          },
+          {
+            "Description": "Gas blast",
+            "Code": "B,B,HP"
+          },
+          {
+            "Description": "Roto-cutter",
+            "Code": "B,B,B,RN"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(3)",
+            "Code": [
+              {
+                "Description": "HP,HP,D+HP",
+                "Damage": "13%"
+              },
+              {
+                "Description": "LK,LK,B+HK",
+                "Damage": "18%"
+              }
+            ]
+          },
+          {
+            "Description": "(4)",
+            "Code": [
+              {
+                "Description": "HP,HP,D+LP,D+HP",
+                "Damage": "17%"
+              },
+              {
+                "Description": "HP,HP,HK,B+HK",
+                "Damage": "19%"
+              },
+              {
+                "Description": "LK,LK,HK,B+HK",
+                "Damage": "24%"
+              }
+            ]
+          },
+          {
+            "Description": "(6)",
+            "Code": [
+              {
+                "Description": "LK,LK,HP,HP,D+LP,D+HP",
+                "Damage": "17%"
+              },
+              {
+                "Description": "LK,LK,HP,HP,HK,B+HK",
+                "Damage": "18%"
+              },
+              {
+                "Description": "Jump,HP,HP,HP,D+HP,jumpkick,gasblast",
+                "Damage": "37%",
+                "Notes": "Can add run,HK if close to corner for 44%."
+              }
+            ]
+          },
+          {
+            "Description": "(8)",
+            "Code": "Time stop,LK,LK,HP,HP,D+HP,jumpkick,gasblast",
+            "Damage": "30%"
+          },
+          {
+            "Description": "(10)",
+            "Code": "Cross kick,time stop,roto-cutter,run,LK,LK,HP,HP,D+HP, jumpkick,gas blast",
+            "Damage": "57%"
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "Inflato-head",
+            "Code": "D,D,B,F,BL",
+            "Notes": "One-half screen"
+          },
+          {
+            "Description": "Takes off mask",
+            "Code": "RN,BL,BL,BL,HK",
+            "Notes": "Close"
+          }
+        ],
+        "Friendship": {
+          "Description": "Marshmellow Roast)",
+          "Code": "RN,LK,RN,RN,U"
+        },
+        "Brutality": "HP,BL,LK,LK,LK,HK,LP,LP,LP,HP,LP",
+        "Babality": "RN,RN,LK  Pit:BL,BL,HK",
+        "notes": ["Kabal can't use time stop after 2 hits."]
+      },
+      {
+        "Name": "Sindel",
+        "Special": [
+          {
+            "Description": "Vortex",
+            "Code": "F,F,F,HP"
+          },
+          {
+            "Description": "Power vomit",
+            "Code": "F,F,LP"
+          },
+          {
+            "Description": "Land",
+            "Code": "BL(while flying)"
+          },
+          {
+            "Description": "Air fireball",
+            "Code": "(jump)D,F,LK"
+          },
+          {
+            "Description": "Flight",
+            "Code": "B,B,F,HK"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(3)",
+            "Code": "HK,HK,B+HK",
+            "Damage": "19%"
+          },
+          {
+            "Description": "(5)",
+            "Code": "HK,HP,HP,LP,HK",
+            "Damage": "33%"
+          },
+          {
+            "Description": "(6)",
+            "Code": "Jump,HP,HP,HP,D+HP,jumpkick,air fireball",
+            "Damage": "43%"
+          },
+          {
+            "Description": "(7)",
+            "Code": "Vortex,HK,HP,HP,D+HP,walk in,LP,jumpkick,fire",
+            "Damage": "43%"
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "Scream",
+            "Code": "RN,BL,BL,RN+BL",
+            "Notes": "Close"
+          },
+          {
+            "Description": "Hair spin",
+            "Code": "RN,RN,BL,RN,BL",
+            "Notes": "One-third screen"
+          }
+        ],
+        "Friendship": {
+          "Description": "Football",
+          "Code": "RN,RN,RN,RN,RN,U"
+        },
+        "Brutality": "HP,BL,LK,BL,LK,HK,BL,HK,LK,BL,LP",
+        "Babality": "RN,RN,RN,U",
+        "Pit": "D,D,D,LP"
+      },
+      {
+        "Name": "Smoke(robot)",
+        "Special": [
+          {
+            "Description": "Spear",
+            "Code": "B,B,LP"
+          },
+          {
+            "Description": "Inviso",
+            "Code": "U,U,RN"
+          },
+          {
+            "Description": "Teleport Punch",
+            "Code": "F,F,LK"
+          },
+          {
+            "Description": "Air throw",
+            "Code": "(jump),BL"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(3)",
+            "Code": [
+              {
+                "Description": "HK,HK,LP",
+                "Damage": "19%"
+              },
+              {
+                "Description": "HP,HP,HK",
+                "Damage": "18%"
+              },
+              {
+                "Description": "HP,HP,LP",
+                "Damage": "18%"
+              }
+            ]
+          },
+          {
+            "Description": "(6)",
+            "Code": "Spear,HP,HP,LK,HK,LP",
+            "Damage": "31%"
+          },
+          {
+            "Description": "(9)",
+            "Code": "meet in air,jumpkick,teleport,walk in,HP,spear,HP,HP,LK,HK,LP",
+            "Damage": "63%"
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "End of the world",
+            "Code": "U,U,F,D",
+            "Notes": "Far"
+          },
+          {
+            "Description": "Eat a bomb",
+            "Code": "(RN+BL)D,D,F,U",
+            "Notes": "One-half screen"
+          }
+        ],
+        "Friendship": {
+          "Description": "Horn",
+          "Code": "RN,RN,RN,HK"
+        },
+        "Brutality": "HP,LK,LK,HK,BL,BL,LP,LP,HP,BL,BL",
+        "Babality": "D,D,B,B,HK  Pit:F,F,D,LK",
+        "notes": ["Smoke can't use teleport punch after 2 hits."]
+      },
+      {
+        "Name": "Liu Kang",
+        "Special": [
+          {
+            "Description": "Fireball",
+            "Code": "F,F,HP"
+          },
+          {
+            "Description": "Fireball(low)",
+            "Code": "F,F,LP"
+          },
+          {
+            "Description": "Flying Kick",
+            "Code": "F,F,HK"
+          },
+          {
+            "Description": "Bike kick",
+            "Code": "(LK)"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(2)",
+            "Code": "Jumpkick,flying kick",
+            "Damage": "22%"
+          },
+          {
+            "Description": "(4)",
+            "Code": "LK,LK,HK,LK",
+            "Damage": "22%"
+          },
+          {
+            "Description": "(5)",
+            "Code": "HP,LK,LK,HK,LK",
+            "Damage": "25%"
+          },
+          {
+            "Description": "(6)",
+            "Code": "Jump,HP,HP,HP,B+LP,jumpkick,flying kick",
+            "Damage": "27%"
+          },
+          {
+            "Description": "(7)",
+            "Code": "HP,HP,BL,LK,LK,HK,LK",
+            "Damage": "29%"
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "Inner fire",
+            "Code": "F,F,D,D,LK",
+            "Notes": "Anywhere"
+          },
+          {
+            "Description": "MK2 machine drop",
+            "Code": "U,D,U,U+RN+BL",
+            "Notes": "Anywhere"
+          }
+        ],
+        "Friendship": {
+          "Description": "Picture Show)",
+          "Code": "RN,RN,RN(hold)+D"
+        },
+        "Brutality": "HP,LP,HP,BL,LK,HK,HK,LK,HK,LP,HP",
+        "Babality": "D,D,D,HK",
+        "Pit": "RN,BL,BL,LK"
+      },
+      {
+        "Name": "Shang Tsung",
+        "Special": [
+          {
+            "Description": "Fireball",
+            "Code": "B,B,HP"
+          },
+          {
+            "Description": "Fireball(x2)",
+            "Code": "B,B,F,HP"
+          },
+          {
+            "Description": "Fireball(x3)",
+            "Code": "B,B,F,F,HP"
+          },
+          {
+            "Description": "Upward fire",
+            "Code": "F,B,B,LK"
+          }
+        ],
+        "MORPHS": [
+          {
+            "Description": "Kitana",
+            "Code": "F,D,F,RN"
+          },
+          {
+            "Description": "Reptile",
+            "Code": "RN,BL,BL,HK"
+          },
+          {
+            "Description": "Scorpion",
+            "Code": "D,D,F,LP"
+          },
+          {
+            "Description": "Jade",
+            "Code": "F,D,D,BL"
+          },
+          {
+            "Description": "Mileena",
+            "Code": "RN,BL,HK"
+          },
+          {
+            "Description": "Ermac",
+            "Code": "D,D,U"
+          },
+          {
+            "Description": "Classic Sub-Zero",
+            "Code": "BL,BL,RN,RN"
+          },
+          {
+            "Description": "Cyrax",
+            "Code": "BL,BL,BL"
+          },
+          {
+            "Description": "Sektor",
+            "Code": "D,F,B,RN"
+          },
+          {
+            "Description": "Sonya",
+            "Code": "D+RN+LP+BL"
+          },
+          {
+            "Description": "Kano",
+            "Code": "B,F+BL"
+          },
+          {
+            "Description": "Jax",
+            "Code": "F,F,D,LP"
+          },
+          {
+            "Description": "Kung Lao",
+            "Code": "RN,RN,BL,RN"
+          },
+          {
+            "Description": "Liu Kang",
+            "Code": "B to U to F to D"
+          },
+          {
+            "Description": "Sub-Zero",
+            "Code": "F,D,F,HP"
+          },
+          {
+            "Description": "Nightwolf",
+            "Code": "U,U,U"
+          },
+          {
+            "Description": "Stryker",
+            "Code": "F,F,F,HK"
+          },
+          {
+            "Description": "Kabal",
+            "Code": "LP,BL,HK"
+          },
+          {
+            "Description": "Sindel",
+            "Code": " B,D,B,LK"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(3)",
+            "Code": "HK,HK,B+HK",
+            "Damage": "19%"
+          },
+          {
+            "Description": "(4)",
+            "Code": [
+              {
+                "Description": "HP,HP,LP,B+HK",
+                "Damage": "22%"
+              },
+              {
+                "Description": "Upward fire,uppercut",
+                "Damage": "36%"
+              }
+            ]
+          },
+          {
+            "Description": "(5)",
+            "Code": "HK,HP,HP,LP,B+HK",
+            "Damage": "27%"
+          },
+          {
+            "Description": "(6)",
+            "Code": "Upward fire,HP,jumpkick,sweep",
+            "Damage": "48%"
+          }
+        ],
+        "Fatalities": [
+          {
+            "Description": "Spike slam",
+            "Code": "(LP)D,F,F,D",
+            "Notes": "Close"
+          },
+          {
+            "Description": "Spirit lifter",
+            "Code": "(LP)RN,BL,RN,BL",
+            "Notes": "Close"
+          }
+        ],
+        "Friendship": {
+          "Description": "Joust image from 1982",
+          "Code": "LK,RN,RN,D"
+        },
+        "Brutality": "HP,BL,BL,BL,LK,HP,LP,LP,BL,BL,BL",
+        "Babality": "RN,RN,RN,LK  Pit:U,U,B,LP"
+      },
+      {
+        "Name": "Smoke(human)",
+        "Code": "Select robot smoke, hold B+HP+HK+RN+BL until the round begins Human Smoke appears in a puff. Will not work after the restart trick!",
+        "Special": [
+          {
+            "Description": "Spear",
+            "Code": "B,B,LP"
+          },
+          {
+            "Description": "Teleport Punch",
+            "Code": "D,B,HP"
+          },
+          {
+            "Description": "Air throw",
+            "Code": "(jump),BL"
+          }
+        ],
+        "Combos": [
+          {
+            "Description": "(3)",
+            "Code": [
+              {
+                "Description": "HP,HP,U+LP",
+                "Damage": "18%"
+              },
+              {
+                "Description": "LK,D+LP,D+HP",
+                "Damage": "19%)",
+                "Notes": "Splits up often after LK"
+              }
+            ]
+          },
+          {
+            "Description": "(4)",
+            "Code": "HP,HP,HK,B+HK(24%)"
+          },
+          {
+            "Description": "(6)",
+            "Code": [
+              "Spear,LK,LP,jumpkick,teleport,run,HK(39%)",
+              "+throw,LK,LP,spear,LK,LP,jumpkick,air throw(43%)"
+            ]
+          },
+          {
+            "Description": "(8)",
+            "Code": "LK,LP,walk in,HP,spear,HK,HK,LK,B+HK(31%)"
+          },
+          {
+            "Description": "(9)",
+            "Code": "LK,LP,jumpkick,teleport,spear,HK,HK,LK,B+HK(40%)"
+          }
+        ],
+        "Fatalities": {
+          "Description": "Head punch",
+          "Code": "RN,BL,RN,RN,HK",
+          "Notes": "Close"
+        },
+        "Brutality": "HP,HP,BL,LK,HK,HP,HK,HP,HK,LP,LK",
+        "Babality": "D,B,B,F,HP  Pit:F,U,U,LP",
+        "notes": [
+          "Smoke can't teleport or spear after 5 hits.",
+          "Smoke has no 2nd fatality or friendship in this version."
+        ]
+      },
+      {
+        "Name": "Motaro",
+        "Special": [
+          {
+            "Description": "Fireball",
+            "Code": "F to D to B+HP"
+          },
+          {
+            "Description": "Grab",
+            "Code": "F,F,LP"
+          },
+          {
+            "Description": "Teleport",
+            "Code": "D,U"
+          },
+          {
+            "Description": "Tail Sweep",
+            "Code": "B+LK"
+          }
+        ],
+        "Combos": {
+          "Description": "(2)",
+          "Code": "Fireball,sweep",
+          "Damage": "38%"
+        }
+      },
+      {
+        "Name": "Shao Kahn",
+        "Special": [
+          {
+            "Description": "Hammer",
+            "Code": "B,F,HP"
+          },
+          {
+            "Description": "Shadow Ram",
+            "Code": "F,F,LP"
+          },
+          {
+            "Description": "Victory Knee",
+            "Code": "F,F,HP"
+          },
+          {
+            "Description": "Fireball",
+            "Code": "B,B,F,LP"
+          },
+          {
+            "Description": "Laugh",
+            "Code": "D,D,HK"
+          },
+          {
+            "Description": "Verbal taunt",
+            "Code": "D,D,LK"
+          },
+          {
+            "Description": "Jump up",
+            "Code": "U(only straight up)"
+          }
+        ]
+      }
+    ]
+  },
+  "Kombat Kodes": {
+    "notes": [
+      "For 2-player games only.",
+      "Left player controls slots #1,#2,#3(HP,LP,LK)",
+      "Right player controls slots #4,#5,#6(HP,LP,LK)",
+      "Tap button to go up 1 symbol, hold up to go down 1 symbol(can go from 0 to 9 this way)",
+      "BE QUICK YOU ONLY HAVE SIX SECONDS TO DO THESE!"
+    ],
+    "Symbols": [
+      "dragon",
+      "MK",
+      "yin-yang",
+      "3",
+      "question mark",
+      "lightning",
+      "goro",
+      "rayden",
+      "shao kahn",
+      "skull"
+    ],
+    "instructions": [
+      "At \"VS\" screen, each player's LP,BL,and LK buttons set the boxes at the bottom center of the screen.",
+      "Symbols will be referred to as numbers instead here."
+    ],
+    "Codes": [
+      {
+        "Description": "PLAYER 1/2 HALF ENERGY",
+        "Code": ["000-033", "033-000"]
+      },
+      {
+        "Description": "PLAYER 1/2 QUARTER ENERGY",
+        "Code": ["000-707", "707-000"]
+      },
+      {
+        "Description": "Timer Disabled",
+        "Code": ["445-any", "any-445"]
+      },
+      {
+        "Description": "One Button Brutalites(just hit HP)",
+        "Code": "012-345"
+      },
+      {
+        "Description": "Gives extended fatality time(about 30 sec.)",
+        "Code": "955-955"
+      },
+      {
+        "Description": "One button fatalities",
+        "Code": "944-944",
+        "Fatalities": [
+          {
+            "Description": "fatal 1",
+            "Code": "HP"
+          },
+          {
+            "Description": "fatal 2",
+            "Code": "LP"
+          },
+          {
+            "Description": "Friendship",
+            "Code": "LK"
+          },
+          {
+            "Description": "babality(works rarely)",
+            "Code": "RN"
+          },
+          {
+            "Description": "pit",
+            "Code": "BL"
+          },
+          {
+            "Description": "none",
+            "Code": "HK"
+          },
+          {
+            "notes": [
+              "Will glitch out often, especially with characters with incomplete finishers."
+            ]
+          },
+          {
+            "exceptions": [
+              "Rain and Jade's pit.",
+              "Rain and Noob's babality.",
+              "Human Smoke's finishers."
+            ]
+          }
+        ]
+      },
+      {
+        "Description": "FAST UPPERCUT RECOVERY",
+        "Code": "788-322"
+      },
+      {
+        "Description": "NO POWER - One hit kills!",
+        "Code": "044-440"
+      },
+      {
+        "Description": "No music",
+        "Code": "300-300"
+      },
+      {
+        "Description": "Health recovery.",
+        "Code": "012-012",
+        "Notes": [
+          "Will cease to work if the Scorpion/Ermac/Human Smoke air teleport move is used."
+        ]
+      },
+      {
+        "Description": "THROWING DISABLED",
+        "Code": "100-100"
+      },
+      {
+        "Description": "THROWING ENCOURAGED",
+        "Code": "010-010",
+        "Notes": [
+          "Shao says \"excellent\" or \"outstanding\" after each throw."
+        ]
+      },
+      {
+        "Description": "BLOCKING DISABLED",
+        "Code": "020-020"
+      },
+      {
+        "Description": "WINNER FIGHTS SMOKE-(still robot Smoke..)",
+        "Code": "205-205"
+      },
+      {
+        "Description": "WINNER FIGHTS NOOB",
+        "Code": "769-342"
+      },
+      {
+        "Description": "WINNER FIGHTS SHAO KAHN",
+        "Code": "969-141"
+      },
+      {
+        "Description": "WINNER FIGHTS MOTARO(big wow)",
+        "Code": "033-564"
+      },
+      {
+        "Description": "RANDPER KOMBAT",
+        "Code": ["444-444", "460-460"]
+      },
+      {
+        "Description": "Fight at PIT III",
+        "Code": "820-028"
+      },
+      {
+        "Description": "Fight on the Roof",
+        "Code": "343-343"
+      },
+      {
+        "Description": "No Fear Message(outdated)",
+        "Code": "282-282"
+      },
+      {
+        "Description": "In-close combos disabled",
+        "Code": "999-995"
+      },
+      {
+        "Description": "Flipper message(outdated)",
+        "Code": "987-666"
+      },
+      {
+        "Description": "..no knowledge without power",
+        "Code": "123-926"
+      },
+      {
+        "Description": "Uppercut changes stage every time",
+        "Code": "221-557"
+      },
+      {
+        "Description": "Hyper speed",
+        "Code": "191-191"
+      },
+      {
+        "Description": "Credit screen before fight",
+        "Code": "120-120"
+      },
+      {
+        "Description": "8-man tournament with random characters",
+        "Code": "989-898"
+      },
+      {
+        "Description": "Sweeping disabled",
+        "Code": "091-293"
+      },
+      {
+        "Description": "Minimal damage",
+        "Code": "432-234"
+      },
+      {
+        "Description": "Invisible fighters",
+        "Code": "449-449"
+      },
+      {
+        "Description": "No powerbars",
+        "Code": "987-123"
+      },
+      {
+        "Description": "Dark fighting",
+        "Code": "688-422"
+      },
+      {
+        "Description": "Psycho kombat",
+        "Code": "985-125"
+      },
+      {
+        "Description": "Play hidden game",
+        "Code": "642-468"
+      },
+      {
+        "Description": "Fight at Scorpion's Lair",
+        "Code": "666-444"
+      },
+      {
+        "Description": "Fight at Jade's Desert",
+        "Code": "330-033"
+      },
+      {
+        "Description": "Unlimited running",
+        "Code": "466-466"
+      },
+      {
+        "Description": "Fight at the River",
+        "Code": "002-003"
+      },
+      {
+        "Description": "Fight at Kahn's Kave",
+        "Code": "004-700"
+      },
+      {
+        "Description": "Fight at the Portal(933-933 DOES NOT WORK)",
+        "Code": "???-???"
+      }
+    ]
+  },
+  "Special Codes": {
+    "Master Cheat Menus": {
+      "Left Controller": [
+        {
+          "Description": "Kool Stuff",
+          "Code": "R,U,B,B,A,D,U,B,D,U,B"
+        },
+        {
+          "Description": "Kooler Stuff(includes Motaro)",
+          "Code": "U,B,A,L,D,Y"
+        },
+        {
+          "Description": "Scott's Stuff(includes Shao Kahn)",
+          "Code": "B,A,D,D,L,A,X,B,A,B,Y"
+        },
+        {
+          "Description": "KOMBAT ZONES",
+          "Directions": "B/F on controller 1 to select stages."
+        },
+        {
+          "Description": "SOUND TEST",
+          "Directions": "Left,Down,Y,Y to access sound test. \"Come here!\"(#141)"
+        }
+      ],
+      "Old and useless": [
+        "Hold Left+A on copyright screen",
+        "Hold Right+B on WILLIAMS screen",
+        "Hold X+Y until options screen appears",
+        "It's the old Smoke code from the original MK3! But who needs it now?"
+      ]
+    },
+    "Notes": "A note about bosses: They can only be used in a 2-player game, and then only by one person.",
+    "Restart trick": "In a 1-player game, tap start on the other controller and then hold start on yours. Select \"MORTAL KOMBAT\" and you can restart the fight with a new character without using continues!",
+    "Shao Kahn's Treasures(after 8-man tourney)": [
+      {
+        "Description": "See character ending",
+        "Code": "Dragon"
+      },
+      {
+        "Description": "Play hidden game",
+        "Code": "MK"
+      },
+      {
+        "Description": "WILD CARD (Noob Ermac/Fat. Demo 1-3/Friendship Demo)",
+        "Code": "Yin-yang"
+      },
+      {
+        "Description": "Short fatality demo",
+        "Code": "3"
+      },
+      {
+        "Description": "Short fatality demo",
+        "Code": "Question mark"
+      },
+      {
+        "Description": "Short fatality demo(for new guys)",
+        "Code": "Lightning"
+      },
+      {
+        "Description": "Fight Noob and Ermac",
+        "Code": "Goro"
+      },
+      {
+        "Description": "Fight Noob and Ermac",
+        "Code": "Raiden"
+      },
+      {
+        "Description": "Fight Noob and Ermac",
+        "Code": "Shao Kahn"
+      },
+      {
+        "Description": "Shows fatalities and friendships for all except Rain,Noob,Classic Sub,and Human Smoke,and babalities for all.",
+        "Code": "Skull"
+      },
+      {
+        "Description": "Play hidden game",
+        "Code": "Fight 100 consecutive 2-player battles. Believe me, it's not that good."
+      }
+    ]
+  },
+  "Glitches": [
+    {
+      "Description": "Garbled message",
+      "Directions": "Turn the game on and hold L+R on the right controller. An unintelligable message will appear in the upper center of the copyright screen. Huh? It says \"SEPT 6 11:03 AM\""
+    },
+    {
+      "Description": "No kombo with kick",
+      "Directions": "Occasionally, when next to your opponent, they will do a kick instead of a combo starter knee."
+    },
+    {
+      "Description": "Friendship???",
+      "Directions": "When using 1-button fatalities with Rain,Ermac,or Sub-Zero, use LK and they walk to about sweeping distance and freeze and the game says\"FRIENDSHIP\". Occasionally occurs during demo mode as well!"
+    },
+    {
+      "Description": "Liu Kang kombo glitch",
+      "Directions": "Doing his HP,HP,B+LP combo causes all following moves to do greatly reduced damage!"
+    },
+    {
+      "Description": "Scroll glitch",
+      "Directions": "Doing Nightwolf's axe or Kitana's fans sometimes causes the game to slow down or scroll weirdly."
+    },
+    {
+      "Description": "Rain game crash",
+      "Directions": "Once I did the PowerKick and the game froze."
+    },
+    {
+      "Description": "What fatality?",
+      "Directions": "During one-button fatalities or occasionally in demo mode,Rain, Noob, or Human Smoke will walk to a certain distance and just do their winning pose. I think this is what happens when you attempt a fatality that isn't really there."
+    },
+    {
+      "Description": "Ghost of Sheeva",
+      "Directions": "Use old tournament mode and random select, if you get an \"E\" it thinks it's still Sheeva! You will have an almost completely invisible image. The \"ghost\" cannot do Sheeva's special moves, but can still do her kombos, at least the HP,HP,LP,F+HP one! Try throwing with her and watch the screen go up and down!"
+    },
+    {
+      "Description": "Novice level glitch",
+      "Directions": "When playing on this tower, the difficulty level seems to be high on the second CPU opponent."
+    },
+    {
+      "Description": "After image",
+      "Directions": "Have your brightness turned up on your TV/monitor when doing Classic Sub's head pull fatality. While the screen blacks out, a very faint image of Sub-Zero doing his winning pose, your opponent in his \"scared\" pose and the word \"FATALITY\" can be seen!"
+    },
+    {
+      "Description": "Missed combo",
+      "Directions": "Stryker and Kano can't start their combos beginning with a HP from a jump punch on either of the female ninjas, the standing HP hit will miss! Cyrax also has this problem and the first punch will miss when he nets N.Wolf"
+    },
+    {
+      "Description": "Mileena with fans?",
+      "Directions": "Drain your the last of your opponents' energy with a jump punch and then hit HP,HP as if starting a combo. Mileena will hold fans for a split second while doing her winning pose!"
+    },
+    {
+      "Description": "Soound test trick",
+      "Directions": "Play sounds #109 and #110 right after each other very very quick! Nuff said."
+    },
+    {
+      "Description": "Noob's flashing baby",
+      "Directions": "When your opponent has 10% or less life in the final round, finish them off with this combo:Slam,LP,blast. Then do the babality(F,F,F,LP). The baby will flash and then be discolored! You can also do another blast and Noob himself will flash in his winning pose!"
+    },
+    {
+      "Description": "Reptile's floating baby",
+      "Directions": "At the end of the match, stand back a full screen and throw a slow orb. Then quickly do his babality (F,F,B,D,LK) before the orb hits. They will be bounced up as they are turned into a baby and stay suspended in air!"
+    },
+    {
+      "Description": "Cyrax false mercy",
+      "Directions": "Do a MERCY with CYRAX right after launching a far bomb and see what happens!"
+    },
+    {
+      "Description": "Silent taunt",
+      "Directions": "Doing Kahn's verbal taunt at certain times, he will not speak."
+    },
+    {
+      "Description": "Brutality freeze",
+      "Directions": "Enter 1 button brutalities with fatalities OFF. And finish with HP and your character does just half of his/her brutality and then stops!"
+    },
+    {
+      "Description": "3 Friendship glitches",
+      "Directions": {
+        "notes": "Have 1 button fatalities turned on, end of round 2 only, and have opponent win first match."
+      },
+      "Glitches": [
+        {
+          "Description": "Attack Rayden",
+          "Directions": "Hit LK for Nightwolf's friendship, then have the other player perform his/her brutality."
+        },
+        {
+          "Description": "Brutality glitch #2",
+          "Directions": "Have Scorpion or Reptile do their 1 button friendship and do your brutality. You do it but THEY get credit for it!"
+        },
+        {
+          "Description": "Double winning pose",
+          "Directions": "Hit Scorpion or Reptile before the skull or lizard head comes out. Both will do their victory poses!"
+        },
+        {
+          "Description": "Unfinished Brutality",
+          "Directions": "If you do Kung Lao's brutality in the corner, he will stop right after the screen goes black."
+        },
+        {
+          "Description": "Noob throws twice",
+          "Directions": "Do his Image Throw up close then LP for a double throw."
+        }
+      ]
+    }
+  ],
+  "Credits": [
+    {
+      "Description": "99% Noob Combo",
+      "Author": "SeCreativo"
+    },
+    {
+      "Description": "found the Master Cheat Codes!",
+      "Author": "PL526@aol.com"
+    },
+    {
+      "Description": "One Button Brutalities Kombat Kode!",
+      "Author": "jeescypouliot@videotron.ca"
+    },
+    {
+      "Description": "Complete list of brutalities from his FAQ",
+      "Author": "CBlaney"
+    },
+    {
+      "Description": "Got Noob's pit and babality from his FAQ",
+      "Author": "Worknman"
+    },
+    {
+      "Description": "Some Rain and Noob kombos from his FAQ",
+      "Author": "Sub-Zero"
+    },
+    {
+      "Description": "Simpler Noob pit from his WWW page",
+      "Author": "K-No"
+    },
+    {
+      "Description": "fixed Kitana's brutality",
+      "Author": "rentoon"
+    },
+    {
+      "Description": "New Kitana combos and the sound test code!",
+      "Author": "LindseyB@gain.mercer.edu"
+    },
+    {
+      "Description": "Helped me get Noob's 6-hit juggle",
+      "Author": "moorep"
+    },
+    {
+      "Description": "Sent me the Cyrax glitch",
+      "Author": "Alfonso Campana"
+    },
+    {
+      "Description": "sent that sound test trick",
+      "Author": "Richard Knechtle"
+    },
+    {
+      "Description": "Friendship/Brutality glitches",
+      "Author": "Jim Ng"
+    },
+    {
+      "Description": "Kabal 10-hit kombo",
+      "Author": "DREDRE"
+    },
+    {
+      "Description": "hidden Friendship Demo",
+      "Author": "???"
+    },
+    {
+      "Description": "Garbled message",
+      "Author": "genius"
+    },
+    {
+      "Description": "KL's 100% juggle",
+      "Author": "Pelly Khan(pbandi@hotmail.com)"
+    }
+  ],
+
+  "Notes": [
+    "CAGE WINS... LEGALITY!! MORTAL KOMBAT and all associations(C)1992-96 MIDWAY",
+    "ULTIMATE MK3 is published by WILLIAMS ENTERTAINMENT",
+    "Super Nintendo is a trademark of Nintendo"
+  ]
+}
